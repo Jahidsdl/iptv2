@@ -783,4 +783,5 @@ http://190.131.228.59:8000/play/a0e2/index.m3u8
 http://190.131.228.59:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="Zoom",Zoom
 http://190.131.228.59:8000/play/a00d/index.m3u8
-
+#EXTINF:-1 tvg-id="Movie",DRISHYAM 2 (2022)
+http://10.16.100.212/iccftps12/iccftps12sasd6/Movies/Hindi/Drishyam%202%20(2022)%201080p%20DVDRip.mp4
